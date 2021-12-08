@@ -1,8 +1,5 @@
 # Entrance page
 
-## Publishing the maps 
-
-In order to access the files via the links, you need to set the repository as public and adjust the GitHub pages settins
 ## My maps
 
 Edit the text below and add links to the maps that you have created:

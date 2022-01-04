@@ -72,6 +72,17 @@ Create a nice interactive map using the skills you leared in lesson 5: interacti
 
 For both maps, think a bit about the audience of the map, and pay attention to your cartographic choices. Check out [this blog post for further hints on creating good maps](https://www.gislounge.com/ten-things-to-consider-when-making-a-map/). 
   
+## Exercise 5 grade and feedback: 20.0 / 20.0 points
+### Grader
+- Justus Poutanen
+### Problem scores
+- Problem 1: 8.0 / 8.0 
+- Problem 2: 10.0 / 10.0 
+- Problem 3: 2.0 / 2.0
+### Comments 
+- Cool maps in problem 1! The population difference is quite big depending on the data used.
+- Nice color scheme in prob 2! Doesn't surprise me that the highest amount of buildings are in the largest postal code areas.
+- Well done! :tiger:
   
   
   
